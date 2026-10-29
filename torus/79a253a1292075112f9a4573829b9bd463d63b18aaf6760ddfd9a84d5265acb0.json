@@ -1,0 +1,52 @@
+{
+  "operands": [
+    {
+      "type": "Torus",
+      "geometry": {
+        "center": [
+          "0",
+          "0",
+          "0"
+        ],
+        "xAxis": [
+          "1",
+          "0",
+          "0"
+        ],
+        "yAxis": [
+          "0",
+          "1",
+          "0"
+        ],
+        "zAxis": [
+          "0",
+          "0",
+          "1"
+        ],
+        "majorRadius": "3",
+        "minorRadius": "1"
+      }
+    },
+    {
+      "type": "Plane",
+      "geometry": {
+        "location": [
+          "3",
+          "0",
+          "0"
+        ],
+        "normal": [
+          "1",
+          "0",
+          "0"
+        ],
+        "xDirection": [
+          "0",
+          "1",
+          "0"
+        ],
+        "hasXDirection": true
+      }
+    }
+  ]
+}
